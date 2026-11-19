@@ -1,5 +1,5 @@
 {
-  "name": "receipt-guard-app",
+  "name": "receipt-guard-app-6",
   "version": "1.0.0",
   "private": true,
 "scripts": { "dev": "next dev", "build": "unset npm_config_cache_dir && next build", "start": "next start" },
